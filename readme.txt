@@ -2,7 +2,7 @@
 
 Create a website for a local bookstore in Singapore. 
 
-In  website, the following have been implemented:
+In the webpages, the following have been implemented:
 = Layout Tables
 = Colspan and rowspan in tables
 = Links and URL relative referencing
